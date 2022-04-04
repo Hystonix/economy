@@ -1,0 +1,10 @@
+name: "Economy"
+main: com.projecki.economy.EconomyPlugin
+version: 1.0
+commands:
+  balance:
+    description: "View a player's balance"
+    usage: "/balance [name]"
+  modifybalance:
+    description: "Modify the balance of a player"
+    usage: "/modifybalance <name> <set|add|remove> <amount"

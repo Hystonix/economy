@@ -1,0 +1,8 @@
+# Database connection information
+dbSocket: "127.0.0.1"
+dbUsername: "root"
+dbPassword: "pass"
+dbName: "economy"
+
+# The default balance of a player
+defaultBalance: 0.0
